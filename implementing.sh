@@ -1,6 +1,6 @@
 #!/bin/bash
 
-a=5
+a=0
 
 while [ $a -lt 10 ]
 do
